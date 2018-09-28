@@ -44,4 +44,4 @@ And you need to require it when you use our script in browser
 
 	Initiate the project and a base function
 
-[venn]:	http://wyubin.github.io/svg_plot/venn.html	"plot venn by input"
+[venn]:	wyubin.github.io/svg_plot/venn.html	"plot venn by input"
