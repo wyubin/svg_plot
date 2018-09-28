@@ -1,0 +1,9 @@
+{
+	"name" : "svg_plot",
+	"version" : "0.0.1",
+	"style":{},
+	"browser":{
+		"pages/demo_pkg.min.js":"pages/demo_pkg.js",
+		"svg_plot.min.js":"svg_plot.js"
+	}
+}
