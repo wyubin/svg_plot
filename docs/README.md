@@ -5,7 +5,7 @@ A lightweight generator for plotting a useful venn diagram(and others...) with s
 The [Venn][] page
 
 ## Requirements
-The only dependency of svg_plot is svgjs, a useful svg framework, you need to download the newest [svgjs][] file before use svg_plot.
+No other dependency(no longer need svgjs).
 
 And you need to require it when you use our script in browser
 ```html
@@ -44,5 +44,4 @@ And you need to require it when you use our script in browser
 
 	Initiate the project and a base function
 
-[svgjs]:	https://raw.githubusercontent.com/wout/svg.js/master/dist/svg.min.js	"svgjs minify resource"
-[venn]:		http://wyubin.github.io/svg_plot/venn.html
+[venn]:	http://wyubin.github.io/svg_plot/venn.html	"plot venn by input"
