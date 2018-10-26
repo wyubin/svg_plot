@@ -1,9 +1,28 @@
 {
-	"name" : "svg_plot",
-	"version" : "0.0.1",
-	"style":{},
-	"browser":{
-		"pages/demo_pkg.min.js":"pages/demo_pkg.js",
-		"svg_plot.min.js":"svg_plot.js"
-	}
+  "name": "svg_plot",
+  "version": "1.0.0",
+  "description": "A lightweight generator for plotting a useful venn diagram(and others...) with svg tech.",
+  "main": "kegg_map.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyubin/svg_plot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyubin/svg_plot/issues"
+  },
+  "homepage": "https://github.com/wyubin/svg_plot#readme",
+  "style":{},
+  "browser":{
+	  "pages/demo_pkg.min.js":"pages/demo_pkg.js",
+	  "svg_plot.min.js":"svg_plot.js"
+  }
 }
