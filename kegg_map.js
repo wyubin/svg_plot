@@ -1,7 +1,7 @@
 module.id='kegg_map';
-require('../../lib/stdlib.SVGElement.js');
+require('jsStdlib/stdlib.SVGElement.js');
 var extend = require('util')._extend;
-var events_reg = require('../../lib/events_reg.js');
+var events_reg = require('spa_tools/events_reg.js');
 /**
 * based on svgjs[https://github.com/wout/svg.js] to render specific plot
 * @constructs kegg_map

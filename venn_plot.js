@@ -1,6 +1,6 @@
 module.id='venn_plot';
-require('../../lib/stdlib.array.js');
-require('../../lib/stdlib.SVGElement.js');
+require('jsStdlib/stdlib.array.js');
+require('jsStdlib/stdlib.SVGElement.js');
 var extend=require('util')._extend;
 
 /**
